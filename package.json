@@ -1,0 +1,10 @@
+{
+  "name": "@khusainov/nuxt-module",
+  "version": "1.0.0",
+  "description": "Nuxt module tutorial",
+  "private": false,
+  "main": "module.js",
+  "license": "MIT",
+  "author": "Khusainov Rinat <khusainovrm@yandex.ru",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
